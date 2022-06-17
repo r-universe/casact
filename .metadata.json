@@ -1,0 +1,10 @@
+[
+  {
+    "package": "imaginator",
+    "oncran": true
+  },
+  {
+    "package": "raw",
+    "oncran": true
+  }
+]

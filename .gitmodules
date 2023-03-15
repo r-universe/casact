@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "raw"]
-	path = raw
-	url = https://github.com/casact/raw_package
-	shallow = true
-	registered = true
 [submodule "imaginator"]
 	path = imaginator
 	url = https://github.com/casact/imaginator
+	shallow = true
+	registered = true
+[submodule "raw"]
+	path = raw
+	url = https://github.com/casact/raw_package
 	shallow = true
 	registered = true
